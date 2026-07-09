@@ -10,7 +10,7 @@
 # gdk-pixbuf2 -> glycin-libs
 # glycin-libs -> glycin-loaders
 # glycin-loaders -> libheif
-%bcond bootstrap 0
+%bcond bootstrap 1
 
 Name:           libheif
 Version:        1.23.1
