@@ -5,7 +5,7 @@ work-in-progress targeting performance levels applicable to both VOD and Live
 encoding / transcoding video applications.}
 
 Name:           svt-av1
-Version:        4.1.0
+Version:        4.2.0
 Release:        %autorelease
 Summary:        Scalable Video Technology for AV1 Encoder
 
